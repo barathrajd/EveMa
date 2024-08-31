@@ -3,7 +3,7 @@ Event Management Server.
 ## Available Scripts
 
 In the project directory, you can run:
-
+\
 For install dependencies,
 
 ```js
